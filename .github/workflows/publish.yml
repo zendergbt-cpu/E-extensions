@@ -36,6 +36,10 @@ jobs:
             title: Komiic
             module: :src:zh:komiic
             source-dir: src/zh/komiic
+          - slug: superhentais
+            title: Super Hentais
+            module: :src:pt:superhentais
+            source-dir: src/pt/superhentais
     runs-on: ubuntu-latest
     timeout-minutes: 30
     permissions:
