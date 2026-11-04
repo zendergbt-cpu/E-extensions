@@ -15,7 +15,7 @@ on:
       - settings.gradle.kts
       - src/en/ehentai/**
       - src/zh/komiic/**
-
+      - src/pt/superhentais/**
 permissions: {}
 
 concurrency:
